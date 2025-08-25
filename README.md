@@ -30,7 +30,7 @@ Auxiliar na tomada de decisão em estatégias de marketing digital, identificand
 ## 🛠️ Como Reproduzir
 1. Baixe este repositório
 2. Abra o arquivo `instagram_dashboard.pbix` no Power BI
-3. Substitua a base de dados em `dados/instagram.csv` pelos seus dados
+3. Substitua a base de dados em `dados_instagram3.csv` pelos seus dados
 
 ## 👩‍💻 Autor
 Projeto desenvolvido por [Jessica](https://www.linkedin.com/in/jessicacaetano/).  
